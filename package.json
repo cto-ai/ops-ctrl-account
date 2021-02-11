@@ -16,7 +16,7 @@
   "author": "David Mark Clements <dave@cto.ai>",
   "license": "MIT",
   "dependencies": {
-    "@cto.ai/ops-keycloak": "^1.0.1",
+    "@cto.ai/ops-keycloak": "^1.2.0",
     "debug": "^4.3.1"
   },
   "devDependencies": {
