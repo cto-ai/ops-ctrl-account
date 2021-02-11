@@ -1,2 +1,2 @@
-import createDebug from 'debug'
-import { join, isAbsolute } from 'path'
+'use strict'
+module.exports = require('@cto.ai/ops-keycloak')
