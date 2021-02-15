@@ -6,6 +6,8 @@ JWT-based identity and access management
 
 ## API
 
+This is a native ESM module.
+
 ### `account(opts) => instance`
 
 **Options:**

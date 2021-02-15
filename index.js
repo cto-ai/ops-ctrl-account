@@ -1,2 +1,3 @@
 'use strict'
-module.exports = require('@cto.ai/ops-keycloak')
+export * from '@cto.ai/ops-keycloak'
+export { default } from '@cto.ai/ops-keycloak'
