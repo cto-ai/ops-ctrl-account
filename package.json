@@ -1,6 +1,6 @@
 {
   "name": "@cto.ai/ops-ctrl-account",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "cto.ai account management library",
   "main": "index.js",
   "type": "module",
